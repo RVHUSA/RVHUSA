@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning to review my own work to see what I can do to improve and grow
 
-👯 I’m looking to collaborate on projects related to web development, with a focus on JavaScript, API integration, and user experience
+👯 I’m looking to collaborate on projects related to web development, with a focus on JavaScript and user experience
 
 📫 How to reach me: Visit my portfolio [here](https://rvhusa.github.io/Portfolio1-CA/)!
 
