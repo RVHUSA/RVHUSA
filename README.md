@@ -1,4 +1,4 @@
-## Hi there, I'm Rebecca 👋
+## Hi there, I'm Rebecca 👋🏼
 
 🔭 I’m currently working on my Portfolio 1
 
