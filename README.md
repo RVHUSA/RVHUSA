@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Rebecca 👋
 
-<!--
-**RVHUSA/RVHUSA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on my Portfolio 1
 
-Here are some ideas to get you started:
+🌱 I’m currently learning to review my own work to see what I can do to improve and grow
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on projects related to web development, with a focus on JavaScript, API integration, and user experience
+
+📫 How to reach me: Visit my portfolio [here](https://rvhusa.github.io/Portfolio1-CA/)!
+
+😄 Pronouns: She/her
+
+⚡ Fun fact: I believe clean code and clean kitchens are both underrated
